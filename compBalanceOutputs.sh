@@ -26,16 +26,16 @@
 
 # For use in Summer ECS60, UCD, hw1 balances.cpp
 
-# A simple zsh script that will compile a 'balance.cpp' file and 
-# Sean's executable ('balance.out') file,
+# A simple zsh script that will compile a 'balance.cpp' file, 
+# run Sean's executable ('balance.out') file,
 # write the output of each to separate txt files, and 
 # then diff the files.  
 
-# Used for testing that output of a batch of balance.txt files
-# against the teacher's example.
+# Used for testing the output of a batch of balance.txt files
+# against the teacher's program.
 
 # Usage: put this file in the directory with your balance.cpp,
-# balance*.txt files and Seans balance.out and run the script.
+# balance*.txt files and Sean's balance.out and run the script.
 # Example run: zsh compareOutputs.sh
 
 
